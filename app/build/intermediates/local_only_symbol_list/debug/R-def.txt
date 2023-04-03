@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable proffile
+drawable story
+id image
+id name
+id parentRecycler
+id recycle_stories
+id title
+layout activity_main
+layout item_parent_posts
+layout item_parent_stories
+layout item_post
+layout item_story
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.MyNestedRecycler
+style imageStoryStyle
+style imageStyle
+xml backup_rules
+xml data_extraction_rules

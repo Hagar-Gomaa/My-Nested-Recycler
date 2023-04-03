@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.example.mynestedrecycler.app-mergeDebugResources-28:/layout/item_post.xml",
+        "source": "com.example.mynestedrecycler.app-main-31:/layout/item_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\future\\.gradle\\daemon\\7.5\\com.example.mynestedrecycler.app-mergeDebugResources-28:\\layout\\item_post.xml",
+        "source": "C:\\Users\\future\\.gradle\\daemon\\7.5\\com.example.mynestedrecycler.app-main-31:\\layout\\item_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\future\\.gradle\\daemon\\7.5\\com.example.mynestedrecycler.app-mergeDebugResources-28:\\layout\\item_story.xml",
+        "source": "C:\\Users\\future\\.gradle\\daemon\\7.5\\com.example.mynestedrecycler.app-main-31:\\layout\\item_story.xml"
+    },
+    {
+        "merged": "C:\\Users\\future\\.gradle\\daemon\\7.5\\com.example.mynestedrecycler.app-mergeDebugResources-28:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\future\\.gradle\\daemon\\7.5\\com.example.mynestedrecycler.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\future\\.gradle\\daemon\\7.5\\com.example.mynestedrecycler.app-mergeDebugResources-28:\\layout\\item_parent_posts.xml",
+        "source": "C:\\Users\\future\\.gradle\\daemon\\7.5\\com.example.mynestedrecycler.app-main-31:\\layout\\item_parent_posts.xml"
+    },
+    {
+        "merged": "C:\\Users\\future\\.gradle\\daemon\\7.5\\com.example.mynestedrecycler.app-mergeDebugResources-28:\\layout\\item_parent_stories.xml",
+        "source": "C:\\Users\\future\\.gradle\\daemon\\7.5\\com.example.mynestedrecycler.app-main-31:\\layout\\item_parent_stories.xml"
+    }
+]
